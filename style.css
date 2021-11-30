@@ -1,0 +1,24 @@
+h1{
+    color: white;
+    background-color: black;
+    font-size: 32pt;
+}
+
+h2{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    font-size: 24pt;
+}
+
+h3{
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightblue;
+    font-size: 24pt;
+}
+
+span{
+    color:deepskyblue;
+}
